@@ -5,10 +5,10 @@ Analysis of the NASA Carbon Monitoring System Carbon Flux Total L4 V3 (CMSFluxTo
 A Python-based analysis project for the Programming for Data Science module, using NASA’s CMS-Flux Total Carbon Flux dataset (2010–2022) to explore global carbon flux trends, seasonal patterns, spatial variability, anomalies, and hemispheric differences through statistical and visual analysis.
 
 # Dataset Source
-Dataset Name: CMSFluxTotal201001_202212_v3.nc
-Source: NASA Earthdata
-Download from here: https://disc.gsfc.nasa.gov/datasets/CMSFluxTotal_3/summary
-Access: Requires a free NASA Earthdata login
+• Dataset Name: CMSFluxTotal201001_202212_v3.nc
+• Source: NASA Earthdata
+• Download from here: https://disc.gsfc.nasa.gov/datasets/CMSFluxTotal_3/summary
+• Access: Requires a free NASA Earthdata login
 
 # Important note about the dataset
 The dataset is NOT included in this GitHub repository due to file size limits (40+ MB). 
