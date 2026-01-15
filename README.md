@@ -32,8 +32,8 @@ data/CMSFluxTotal201001_202212_v3.nc
 
 # Notebook Contents (code.ipynb)
 A. Data Loading  
-Loads the CMS-Flux dataset
-Converts variables into analysis‑ready formats
+Loads the CMS-Flux dataset.
+Converts variables into analysis‑ready formats.
 
 B. Basic Analysis
 1. Summary statistics
