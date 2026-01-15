@@ -22,13 +22,13 @@ data/CMSFluxTotal201001_202212_v3.nc
 4. Run all cells in order
 
 # Required Python Packages
-1. xarray
-2. numpy
-3. pandas
-4. matplotlib
-5. seaborn
-6. scipy
-7. netCDF4
+• xarray 
+• numpy
+• pandas
+• matplotlib
+• seaborn
+• scipy
+• netCDF4
 
 # Notebook Contents (code.ipynb)
 A. Data Loading  
