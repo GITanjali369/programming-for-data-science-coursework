@@ -32,6 +32,15 @@ data/CMSFluxTotal201001_202212_v3.nc
 3. Update the dataset path in the notebook if needed.
 4. Run all cells to reproduce the analysis and visualisations.
 
+# Python Libraries
+1. xarray
+2. numpy
+3. pandas
+4. matplotlib
+5. seaborn
+6. scipy
+7. netCDF4
+
 # Summary of the Project
 The analysis includes:
 1. Summary statistics of carbon flux values
